@@ -1,0 +1,114 @@
+body {
+    margin: auto;
+    background: linear-gradient(to bottom, #ffffff 0%, #339966 100%);
+}
+
+iframe {
+    height: 300px;
+}
+
+.jumbotron {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#project {
+    color: #bbeedf;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+#navbarNavAltMarkup {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+}
+
+h2 {
+    color: #003300;
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    font-weight: bold;
+}
+#welcome-text {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+}
+
+#what-we-do {
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-size: 24px;
+}
+
+p #info-facebook {
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+#main-text {
+    font-family: 'Open Sans Condensed', sans-serif !important;
+    font-size: 24px;
+}
+
+.card {
+    background-color: #aeead8;
+    padding: 5px;
+    border-color: #aeead8;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.card-header {
+    border-color: #aeead8;
+}
+
+.btn-primary {
+    background-color: #aeead8;
+}
+
+#contacts {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50%;
+    justify-items: end;
+    text-align: center;
+}
+
+#infoproject{
+    display: grid;
+    grid-template-columns: 50% 50% 50%;
+    grid-template-rows: 50% 50%; 
+    text-align: center;
+    }
+    
+#contact-us {
+    display: grid;
+    grid-template-columns: 50% 50% 50%;
+    grid-template-rows: 50% 50%;
+    text-align: center;
+}
+    
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    background-color: #d7f4ec;
+    border-color: #d7f4ec;
+}
+h5 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+footer {
+    padding: 15px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;
+}
+
+.form-group {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+}
